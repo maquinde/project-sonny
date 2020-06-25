@@ -1,0 +1,8 @@
+/* ================================================
+MEDIA
+=================================================== */
+@media only screen and (max-width: 991px){
+     .navbar-nav .nav-item .nav-link{
+        border-right: 1px solid black;
+    }
+}
